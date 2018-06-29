@@ -1,5 +1,3 @@
-import unittest
-
 def are_equal(x, y):
     return x == y or x is y
 
