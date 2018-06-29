@@ -31,3 +31,6 @@ class Tests(unittest.TestCase):
     
     def test_10(self):
         self.assertFalse(sum_to_k_in_list([1,3,5,2,5], 1000))
+    
+    def test_11(self):
+        self.assertTrue(sum_to_k_in_list([10,15,3,7],17))
