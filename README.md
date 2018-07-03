@@ -19,3 +19,7 @@ ___
     For example, if our input was [1, 2, 3, 4, 5], the expected output would be [120, 60, 40, 30, 24]. If our input was [3, 2, 1], the expected output would be [2, 3, 6].
     Follow-up: what if you can't use division?
 
+___
+
+## Short Brain Teasers
+1. There's a 3-digit number. The sum of its digits is 10, the product of its digits is 20, and it is divisible by 7. What is the 3-digit number?
